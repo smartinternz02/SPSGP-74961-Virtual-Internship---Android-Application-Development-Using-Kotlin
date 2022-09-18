@@ -9,3 +9,5 @@ This application helps users to remember the list of grocery items they need to 
 2. It supports Deletion of list items to remove the purchased items from the list.
 3. It also calculates the total price of individual items by getting the price of single unit and total number of items to be purchased by the user.
 4. It prevents accidental data loss
+# Author
+Deepak Chaurasiya
